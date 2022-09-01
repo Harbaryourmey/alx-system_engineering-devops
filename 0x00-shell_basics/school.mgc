@@ -1,2 +1,3 @@
 #!/bin/bash
-file -m SCHOOL -C
+0 search/ SCHOOL File containing "SCHOOL"
+!:mime text/x-SCHOOL
